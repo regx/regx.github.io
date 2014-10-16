@@ -1,0 +1,7 @@
+table tr td:first-child {
+  width: 200px;
+}
+
+table tr td:nth-child(2) {
+  width: 100px;
+}
